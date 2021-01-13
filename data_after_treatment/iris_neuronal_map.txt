@@ -1,0 +1,20 @@
+Neuronal Map Network : dim ( 10 x 6 ) 
+   ----------------------------------------------- 
+ --->>> learning neuronal network... 
+  - nb itération : 500  
+  - Radius neighbours : 3  
+  - Alpha : 0.9  
+--->>> Rafine neuronal network... 
+  - nb itération : 2000  
+  - Radius neighbours : 1  
+  - Alpha : 0.09  
+ ----------------------------------------------- 
+  legende :  
+          X: Iris-setosa, Y: Iris-versicolor, Z: Iris-virginica  
+  ----------------------------------------------- 
+X X X X Y Z Z Z Z Z 
+X X X X Y Y Z Z Z Z 
+X X X X Y Y Z Z Z Z 
+X X X Y Y Y Y Z Z Z 
+X X X Y Y Y Y Y Y Z 
+X X Y Y Y Y Y Y Z Z 
